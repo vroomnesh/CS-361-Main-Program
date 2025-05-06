@@ -1,2 +1,0 @@
-This is my first commit to the Main Program.
-This is my second commit to the Main Program.
